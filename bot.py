@@ -37,11 +37,11 @@ client = pymongo.MongoClient(
 	)# MONGO DB LINK 
 db = client.credit_cards
 
-developers = ['878216403']
+developers = ['6440962840']
 
 
 addusr = ""
-tk = os.getenv("TOKEN")
+tk = os.getenv("7220432208:AAE8IsaPO0fme-Amcf3s8bpJVlPN_ag8laM")
 mode = os.getenv("MODE")
 
 posting_channel = os.getenv("CHAT_ID_FORWARD")
